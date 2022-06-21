@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bcSeq"]
+	path = bcSeq
+	url = https://github.com/jl354/bcseq
+	shallow = true
+	registered = true
